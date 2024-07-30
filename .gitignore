@@ -6,3 +6,5 @@ node_modules/
 /tests-examples/
 /.idea/
 /.vscode/
+.DS_Store
+```
